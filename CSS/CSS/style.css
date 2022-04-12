@@ -1,0 +1,118 @@
+body {
+    background-color: #000000
+
+}
+@keyframes example {
+    from {background-color: rgb(250, 87, 87);}
+    to {background-color: '';}
+  }
+p.texto11{
+color: aliceblue;
+font-style: italic;
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+border-style: dotted;
+animation: infinite;
+animation-name: example;
+animation-duration: 4s ;
+
+}
+
+p.texto1{
+  
+color:rgb(247, 179, 179);
+text-shadow: 1px 2px;
+font-size: 20px;
+font-family:  "Lucida Console", Courier, monospace;
+text-decoration: double;
+
+}
+
+p.texto2{
+
+color:rgb(241, 116, 116);
+font-size: 30px;
+font-style: italic;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+
+}
+
+p.texto3{
+  
+color:rgb(250, 57, 57);
+font-size: 30px;
+font-weight: bold;
+font-family: "Goudy Bookletter 1911", sans-serif;
+
+}
+
+p.texto4{
+
+color:rgb(255, 224, 242);
+font-size: 30px;
+font-family: cursive; 
+border-style: groove;
+
+}
+
+p.texto5{
+  
+color:rgb(245, 153, 196);
+font-size: 30px;
+font-family: Verdana, 'Times New Roman';
+
+}
+
+p.texto6{
+
+color:rgb(197, 92, 153);
+font-size: 30px;
+font-family: Trabuco MS , Haettenschweiler, 'Arial Narrow Bold';
+}
+
+p.texto7{
+  
+color:rgb(211, 46, 183);
+font-size: 30px;
+font-family: Garamond, Hawaii 5-0, sans-serif;
+background-color: rgb(255, 255, 255);
+opacity: 0.3;
+
+}
+
+p.texto8{
+
+color:rgb(233, 184, 252);
+font-size: 30px;
+font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+
+
+}
+
+p.texto9{
+  
+color:rgb(247, 179, 179);
+font-size: 30px;
+font-family: Didot, serif;
+
+}
+
+p.texto10{
+
+color:rgb(241, 116, 116);
+font-size: 30px;
+font-family: Bradley Hand, cursive;
+border-style: dotted dashed solid double;
+
+}
+
+
+
+
+
+
+
+
+
+
+
